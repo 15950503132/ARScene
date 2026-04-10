@@ -1,0 +1,5 @@
+{
+  "name": "VR STL Visualizer",
+  "description": "A high-performance VR-enabled STL model visualization tool built with React and Three.js.",
+  "requestFramePermissions": ["camera"]
+}
